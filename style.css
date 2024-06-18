@@ -1,0 +1,150 @@
+
+body {
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    border-bottom: 1px dotted black;
+    font-size: 20px;
+}
+
+.catalog {
+    height: 250px;
+    width: 870px;
+    background-color: yellow;
+}
+
+.product {
+    float: left;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    margin: 40px 0px 400px 80px;
+    border: 5px double orange;
+    background-color: bisque 
+}
+.toys {
+    float: left;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    margin: 40px 0px 40px 80px;
+    border: 5px double orange;
+    background-color: bisque
+}
+.toys {
+    float: left;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    margin: 40px 0px 40px 80px;
+    border: 5px double orange;
+    background-color: bisque
+}
+.toys {
+    float: left;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    margin: 40px 0px 40px 80px;
+    border: 5px double orange;
+    background-color: bisque
+}
+.Lego{
+    float: left;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    margin: 40px 0px 40px 80px;
+    border: 5px double orange;
+    background-color: bisque
+}
+h1{
+    text-align: center;
+}
+td{
+    border: 2px solid red;
+}
+li{
+    background-color: lightcoral;
+}
+.doll {
+    float: left;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    margin: 40px 0px 60px 80px;}
+
+    .brik {
+    float: left;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    margin: 50px 0px 50px 90px;}
+    
+    
+    body{
+        background-color: coral;
+    }
+    .doble {
+    float: left;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    margin: 50px 0px 50px 90px;}
+
+    .gg{
+        font-family : Bradley Hand, cursive
+    }
+
+    .qq{
+        font-family : Bradley Hand, cursive
+    }
+
+    .ww{
+        font-family : Bradley Hand, cursive
+    }
+
+    .tt{
+        font-family : Bradley Hand, cursive
+    }
+
+    .uu{
+        font-family : Bradley Hand, cursive
+    }
+
+    .aa{
+        font-family : Bradley Hand, cursive
+    }
+
+    .ss{
+        font-family : Bradley Hand, cursive
+    }
+  .ddnet{
+    float: left;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    margin: 40px 0px 40px 80px;
+    border: 5px double orange;
+    background-color: bisque
+
+} .inet {
+    float: left;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    margin: 40px 0px 40px 80px;
+    border: 5px double orange;
+    background-color: bisque}
+ 
+ .CATAL {
+    height: 250px;
+    width: 870px;
+    background-color: yellow;}
